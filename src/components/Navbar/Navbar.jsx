@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
- import { GiHamburgerMenu, giHamburgerMenu } from 'react-icons/gi';
+ import { GiHamburgerMenu } from 'react-icons/gi';
  import { MdOutlineRestaurantMenu } from 'react-icons/md';
  import images from '../../constants/images'
 
